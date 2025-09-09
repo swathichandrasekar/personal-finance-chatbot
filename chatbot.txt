@@ -1,0 +1,65 @@
+input:num & more then 5
+output:more then 5 
+process flow: what next after input,text,img
+processing of text,model,op
+ ai models:iBm api in hugging space or local API is best
+4 models use minimum gemini,dialogue 
+
+
+frontend
+ language,python 
+streamalm --vscode,gradio--supitor,,best stremlint
+prompt engineering
+
+
+what is the problem statement line and what we do
+
+op excepted for us 
+
+op we don't want
+
+reference based in our chatbot
+
+complex or simple code
+clude ai 
+
+
+op for us we excepted---> 1.Responds to user questions with custom advice based on individual financial data, from saving strategies to optimal tax approaches
+       
+2.Budget Summaries
+Automatically generates budget reports summarizing income, expenses, and actionable insights for spending improvements.
+
+Delivers summaries in simple or advanced formats, depending on the user’s demographic.
+
+3.Spending Optimization
+Analyzes spending habits, flags risky or excessive categories, and proposes ways to reduce unnecessary costs.
+
+Provides context-aware tips and reminders to help users save more effectively
+
+4.Adaptive Communication
+Dynamically adjusts tone and explanation style based on user type—more educational for students, more concise for professionals.
+
+5.Financial “Life Story” Simulation
+Let users visualize future financial scenarios by simulating life events (graduation, career changes, buying a home, starting a business), showing their impact on savings, taxes, and investments.
+
+Use Granite’s generative capabilities to offer branching narratives and personalized “what if” financial projections with interactive visualizations.
+
+6.2. Proactive Credit Builder for Underserved Groups
+The bot monitors non-traditional markers (like rent, utility, digital payments) to help users, especially students or those with thin credit files, improve their credit scores.
+
+Suggest actionable steps and alternate lending options, leveraging AI to recommend real-world credit-building activities and partnerships.
+
+7.3. Social Finance: Group Goals & Collaborative Saving
+Create features for “Finance Rooms” where friends, families, or peer groups discuss savings goals, split bills, and set algorithms for joint milestones and rewards.
+
+Granite models can analyze group transactions, resolve payment disputes, and propose optimal contributions dynamically
+
+8.5. Automated “Financial Health Audit”**
+On-demand audits where the chatbot scans uploaded statements, receipts, and contracts and generates a confidential “financial health report,” with risk scores, opportunity areas, and priority recommendations.
+
+Leverages Watson NLP and Granite’s summarization to flag hidden fees or savings gaps and offer stepwise optimization plans
+
+9.6. Interactive “Financial Coach” Persona Library
+Users pick a coach persona (e.g., "Frugal Guru", "Growth Hacker", "Risk Expert") and Granite tunes responses to match that style and strategy, combining fun with serious personalized advice.
+
+
